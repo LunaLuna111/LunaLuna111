@@ -8,9 +8,27 @@
 
 ### 🌙 关于我 · About Me
 
-正在探索代码与创意的交界处。  
-喜欢漂亮、简单且真正有用的东西。  
-这里会记录我的项目、实验，以及一路收集的星光。
+专注于移动端、后端与跨平台应用开发。<br>
+主要使用 **Flutter / Dart、Go、Python、Java 和 Kotlin**。<br>
+喜欢漂亮、简单且真正有用的东西，也在持续探索代码与创意的交界处。
+
+### 🪄 技能魔法阵 · Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="54" height="54" alt="Flutter" title="Flutter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="54" height="54" alt="Dart" title="Dart" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="54" height="54" alt="Go" title="Go" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="54" height="54" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="54" height="54" alt="Java" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="54" height="54" alt="Kotlin" title="Kotlin" />
+</p>
+
+`Flutter` · `Dart` · `Go` · `Python` · `Java` · `Kotlin`
 
 ### ✦ 当前频道
 
